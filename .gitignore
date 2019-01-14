@@ -8,9 +8,9 @@
 /npm-debug.log
 /package.box
 /provision/playbook.retry
-/provision-post.sh
+# /provision-post.sh
 /provision-pre.sh
-/site.yml
+# /site.yml
 /test.json
 /vendor
 /wp-cli.yml
