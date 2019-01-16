@@ -60,6 +60,7 @@ plugins:
   - wordpress-importer
   - tagregator
   - gutenberg
+  - classic-editor
 
 #
 # WordPress Default Theme
